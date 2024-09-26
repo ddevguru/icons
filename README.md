@@ -18,16 +18,17 @@
 <table>
   <tr>
   
-    <td align="center">
+<td align="center">
       <a href="https://www.instagram.com/_.deepakmishra_/" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2F_.deepakmishra_%2F&subtitle=_.deepakmishra_&size=square" alt="DEEPAK MISHRA">
       </a>
-    </td>
-    <td align="center">
+</td>
+ <td align="center">
       <a href="https://www.linkedin.com/in/ddevguru/" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fddevguru-179875209%2F&subtitle=@Deepak+Mishra&size=square" alt="DEEPAK MISHRA">
       </a>
-    </td>
+</td>
+    
    <td align="center">
   <a href="https://github.com/ddevguru" target="_blank">
     <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fddevguru&subtitle=ddevguru&size=square" alt="ddevguru">
