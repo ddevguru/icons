@@ -165,7 +165,7 @@ With a strong foundation in both front-end and back-end technologies, I am a ded
         <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/><br>MongoDB
       </td>
       
-    </tr>
+  
   </tbody>
 </table>
 </div>
